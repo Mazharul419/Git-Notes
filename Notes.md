@@ -45,5 +45,10 @@ git mv - rename files
 git restore - undo file changes
 
 
+## IMPORTANT: WORK FLOW FOR GIT
+
+> ### [Working Directory] > git add > [Staging Area] > git commit > [Repository]
+
+
 
 
